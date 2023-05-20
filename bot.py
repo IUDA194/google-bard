@@ -68,4 +68,4 @@ def main():
 
 main() # Вызов функции
 
-# Elena shilo sosi hui
+# Конец
