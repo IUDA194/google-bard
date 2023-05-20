@@ -2,7 +2,7 @@
 
 <h3 style"text-algin:center;">ENG</h3>
 
-Console Google Bard Text Generation is a console application designed to use Google Bard's text generation model. It is a powerful tool that uses neural networks and machine learning to generate autonomously generated texts based on given input data.\
+Console Google Bard Text Generation is a console application designed to use Google Bard's text generation model. It is a powerful tool that uses neural networks and machine learning to generate autonomously generated texts based on given input data.
 
 To use "Console Google Bard Text Generation" you will need to install the appropriate executable, depending on your operating system:
 
